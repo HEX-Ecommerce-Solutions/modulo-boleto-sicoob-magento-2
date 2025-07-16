@@ -1,7 +1,7 @@
-# [Módulo Boleto C6 Magento 2](https://loja.hexcommerce.com.br/modulo-boleto-c6-magento-2) 
+# [Módulo Boleto Sicoob Magento 2](https://loja.hexcommerce.com.br/modulo-boleto-sicoob-magento-2) 
  
 
-[Módulo Boleto C6 Magento 2](https://loja.hexcommerce.com.br/modulo-boleto-c6-magento-2), sem intermediário, integre sua loja magento com o banco C6 de forma fácil e prática.
+[Módulo Boleto Sicoob Magento 2](https://loja.hexcommerce.com.br/modulo-boleto-sicoob-magento-2), sem intermediário, integre sua loja magento com o banco Sicoob de forma fácil e prática.
 
 - Total compatibilidade com os principais checkouts do mercado.
 
