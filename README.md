@@ -7,10 +7,6 @@
 
 - Plugin integrado ao Magento.
 
-- Geração de QRCodes em tempo real.
-
-- Rastreio da liquidação junto ao seu banco.
-
 - Atualização do status do pedido automaticamente
 
 - Acompanhamento das transações em tempo real.
